@@ -2,3 +2,10 @@
   width: 384px;
   height: 216px;
 }
+
+.button {
+  background-image: url('assets/buttons/btn-minecraft.png');
+  background-size: cover;
+  width: 400px;
+  height: 92px;
+}
