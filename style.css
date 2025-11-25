@@ -22,12 +22,12 @@ font-family: mc;
   background-image: url('assets/buttons/btn-minecraft.png');
   background-size: cover;
   width: 400px;
-  height: 70px;
+  height: 46px;
 }
 
 .button:hover {
   background-image: url('assets/buttons/btn-minecraft-hover.png');
   background-size: cover;
   width: 400px;
-  height: 70px;
+  height: 46px;
 }
