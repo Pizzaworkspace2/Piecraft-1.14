@@ -58,4 +58,8 @@ margin: 0;
   vertical-align: middle;
   margin: 5px;
 }
+
+.hidden {
+  display: none;
+}
   
