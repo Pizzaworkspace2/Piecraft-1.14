@@ -23,6 +23,7 @@ font-family: mc;
   background-size: cover;
   width: 400px;
   height: 46px;
+  text-align: center;
 }
 
 .button:hover {
@@ -30,4 +31,5 @@ font-family: mc;
   background-size: cover;
   width: 400px;
   height: 46px;
+  text-align: center;
 }
