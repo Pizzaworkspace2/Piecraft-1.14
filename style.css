@@ -26,6 +26,7 @@ margin: 0;
   height: 46px;
   text-align: center;
   vertical-align: middle;
+  margin: 8px;
 }
 
 .button:hover {
@@ -35,4 +36,26 @@ margin: 0;
   height: 46px;
   text-align: center;
   vertical-align: middle;
+  margin: 8px;
 }
+
+.small-button {
+  background-image: url('assets/buttons/btn-minecraft.png');
+  background-size: cover;
+  width: 196px;
+  height: 46px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 8px;
+}
+
+.small-button:hover {
+  background-image: url('assets/buttons/btn-minecraft-hover.png');
+  background-size: cover;
+  width: 196px;
+  height: 46px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 8px;
+}
+  
