@@ -9,3 +9,10 @@
   width: 400px;
   height: 92px;
 }
+
+.button:hover {
+  background-image: url('assets/buttons/btn-minecraft-hover.png');
+  background-size: cover;
+  width: 400px;
+  height: 92px;
+}
