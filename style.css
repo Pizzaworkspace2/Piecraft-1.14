@@ -1,3 +1,14 @@
+@font-face {
+  font-family: mc;
+  src: url('assets/font/Minecraft.woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2 {
+font-family: mc;
+}
+
 .logo {
   width: 384px;
   height: 216px;
