@@ -7,7 +7,7 @@ This is different from other minecraft clones because:
 - 🌎 Multiplayer
 - 💎 Modern versions of Minecraft
 - 🚀 Comes with a launcher
--    Skins and capes
+-    Skins and capes 
 - 🎨 Tons of HTML and JS code.
 
 <img src="https://feedback.minecraft.net/hc/theming_assets/01HZH4GFS6HZFCFWQPVZT51JSB" alt="PIECRAFT" width="100"/>
