@@ -8,6 +8,6 @@ const titlescreen = document.getElementById('titlescreen');
 
 multiplayer.addEventListener('click', function() {
   titlescreen.style.display = 'none';
-  server.style.display = 'inline';
+  server.style.display = 'block';
  });
 }); 
