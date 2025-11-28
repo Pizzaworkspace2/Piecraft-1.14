@@ -59,7 +59,9 @@ margin: 0;
   margin: 5px;
 }
 
-.hidden {
-  display: none;
+#multiplayer-menu {
+  background-image: url('assets/background/dirt.jpeg');
+  background-size: cover;
 }
+
   
