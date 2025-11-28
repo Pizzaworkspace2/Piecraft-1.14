@@ -1,8 +1,8 @@
+document.addEventListener('DOMContentLoaded', (event) => {
 const server = document.getElementById('multiplayer-menu');
 
 server.style.display = 'none';
 
-document.addEventListener('DOMContentLoaded', (event) => {
 const multiplayer = document.getElementById('multiplayer');
 const titlescreen = document.getElementById('titlescreen');
 
