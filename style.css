@@ -65,6 +65,7 @@ margin: 0;
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8LKA_jXN6QkASVr6naWW98b6qciLXQXInib5ep5CilRPffOP8uSe2fwahBeTJmLD5mUk&usqp=CAU');
   background-attachment: fixed;
   background-size: cover;
+  background-position: center center;   
   margin: 0;
   padding: 0;
 }
