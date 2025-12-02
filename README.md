@@ -10,6 +10,9 @@ This is different from other minecraft clones because:
 - 🎨 Tons of HTML and JS code.
 
 <img src="https://feedback.minecraft.net/hc/theming_assets/01HZH4GFS6HZFCFWQPVZT51JSB" alt="PIECRAFT" width="100"/>
+
+> <img src="https://raw.githubusercontent.com/bahabryra/Eaglercraft-1.14/refs/heads/main/1.14.4/assets/data/items/apple.png" alt="apple" width="100"/>
+
  
 
 
