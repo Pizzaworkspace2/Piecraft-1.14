@@ -63,9 +63,7 @@ margin: 0;
 #multiplayer-menu {
   width: 100vw;
   height: 100vh;
-  background-image: url('assets/background/options_background.png');
-  background-size: cover;
-  background-position: center center;   
+  background-image: url('assets/background/options_background.png');   
   margin: 0;
   padding: 0;
 }
