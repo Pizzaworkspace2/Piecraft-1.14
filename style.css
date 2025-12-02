@@ -80,4 +80,14 @@ html, body {
   margin: right;
 }
 
+#titlescreen {
+  background-image: url('assets/background/panoramanew.png');
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+  animation: panorama 140s linear infinite;
+}
+
   
