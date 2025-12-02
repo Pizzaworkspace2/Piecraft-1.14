@@ -64,6 +64,7 @@ margin: 0;
   width: 100vw;
   height: 100vh;
   background-image: url('assets/background/options_background.png');   
+  background-size: 20vh;
   margin: 0;
   padding: 0;
 }
