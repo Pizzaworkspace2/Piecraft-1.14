@@ -92,4 +92,16 @@ html, body {
   animation: panorama 95s linear infinite;
 }
 
+/* thanks to x8rr for panorama code */
+
+@keyframes panorama {
+        0% {
+          background-position: 0;
+        }
+
+        100% {
+          background-position: calc(100vh / 144 * -820);
+        }
+      }
+
   
