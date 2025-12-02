@@ -77,7 +77,7 @@ html, body {
 
 .splash {
   transform: rotate(45deg);
-  margin: right;
+  font-family: mc;
 }
 
 #titlescreen {
