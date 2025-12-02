@@ -89,7 +89,7 @@ html, body {
   padding: 0;
   background-attachment: fixed;
   background-repeat: repeat-x;
-  animation: panorama 95s linear infinite;
+  animation: panorama 140s linear infinite;
 }
 
 /* thanks to x8rr for panorama code */
