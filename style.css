@@ -90,6 +90,7 @@ html, body {
   background-attachment: fixed;
   background-repeat: repeat-x;
   animation: panorama 140s linear infinite;
+  overflow: hidden;
 }
 
 /* thanks to x8rr for panorama code */
