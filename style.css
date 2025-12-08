@@ -7,17 +7,20 @@
 
 h2 {
 font-family: mc;
+user-select: none;
 }
 
 h3 {
 font-family: mc;
 margin: 0;
+user-select: none;
 }
 
 .logo {
   width: 499.2px;
   height: 280.8px;
   margin: 0;
+  user-select: none;
 }
 
 .button {
