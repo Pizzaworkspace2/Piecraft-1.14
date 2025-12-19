@@ -142,4 +142,8 @@ input {
   animation: panorama 140s linear infinite;
   overflow: hidden;
 }
+
+.splashclass {
+  display: flex;
+}
   
