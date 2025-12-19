@@ -22,6 +22,8 @@ setTimeout(function() {
 done.addEventListener('click', function() {  
   titlescreen.style.display = 'block';
   multiplayer.style.display = 'block';
+  profile.style.display = 'none';
+  done.style.display = 'none';
 });
 
 multiplayer.addEventListener('click', function() {
