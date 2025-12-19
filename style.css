@@ -8,12 +8,14 @@
 h2 {
 font-family: mc;
 user-select: none;
+filter: brightness(1);
 }
 
 h3 {
 font-family: mc;
 margin: 0;
 user-select: none;
+filter: brightness(1);
 }
 
 .logo {
@@ -70,6 +72,7 @@ user-select: none;
   background-size: 4.54vw 9.09vh;
   margin: 0;
   padding: 0;
+  filter: brightness(0.6);
 }
 
 html, body {
