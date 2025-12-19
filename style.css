@@ -119,4 +119,10 @@ html, body {
   width: 501px;
 }
 
+input {
+  font-family: mc;
+  height: 46px;
+  width: 200px;
+}
+
   
