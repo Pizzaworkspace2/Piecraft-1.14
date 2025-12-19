@@ -9,6 +9,7 @@ This is different from other minecraft clones because:
 -    Skins and capes 
 - 🎨 Tons of HTML and JS code.
 
+**Gonna try to use three.js for a 3d rendered clone, but IDK if it will work.**
  
 
 
