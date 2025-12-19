@@ -126,7 +126,7 @@ input {
   font-family: mc;
   height: 46px;
   width: 200px;
-  background: #161717;
+  background-color: #161717;
   border-width: 4px;
   border-color: white;
 }
