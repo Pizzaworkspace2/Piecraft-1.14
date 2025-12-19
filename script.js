@@ -14,7 +14,7 @@ setTimeout(function() {
   load.style.display = 'none';
   titlescreen.style.display = 'block';
   multiplayer.style.display = 'block';
-   }); , 2000);
+}, 2000);
 
 multiplayer.addEventListener('click', function() {
   titlescreen.style.display = 'none';
