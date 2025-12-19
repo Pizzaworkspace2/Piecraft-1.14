@@ -128,4 +128,14 @@ input {
   width: 200px;
 }
 
+#profile {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('assets/background/panoramanew.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+  animation: panorama 140s linear infinite;
+  overflow: hidden;
+}
   
