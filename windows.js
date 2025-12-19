@@ -31,3 +31,5 @@ multiplayer.addEventListener('click', function() {
   server.style.display = 'block';
  });
 }); 
+
+//have fun
