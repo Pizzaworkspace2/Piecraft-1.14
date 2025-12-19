@@ -117,6 +117,8 @@ html, body {
 #piecraft {
   height: 102px;
   width: 501px;
+  display: block;
+  margin: 0;
 }
 
   
