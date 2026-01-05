@@ -14,6 +14,7 @@ This is different from other minecraft clones because:
 * [x] Titlescreen
 * [x] JSON Arrays with Block item and other data (incomplete)
 * [x] Custom buttons and font
+* [x] Resource Pack Functionality
 * [ ] Multiplayer Functionality
 * [ ] 3D-Game Engine
 * [ ] All 1.14.4 features
