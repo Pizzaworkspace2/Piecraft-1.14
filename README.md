@@ -10,6 +10,13 @@ This is different from other minecraft clones because:
 - 🎨 Tons of HTML and JS code.
 
 **Gonna try to use three.js for a 3d rendered clone, but IDK if it will work.**
+
+* [x] Titlescreen
+* [x] JSON Arrays with Block item and other data (incomplete)
+* [x] Custom buttons and font
+* [ ] Multiplayer Functionality
+* [ ] 3D-Game Engine
+* [ ] All 1.14.4 features
  
 
 
