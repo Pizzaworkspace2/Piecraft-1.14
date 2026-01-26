@@ -11,7 +11,7 @@
     "side": "/assets/textures/blocks/stone.png",
     "top": "/assets/textures/blocks/stone.png",
     "bottom": "/assets/textures/blocks/stone.png",
-    "sound": "nothing yet",
+    "sound": "nothing yet"
   },
 }, 
 
@@ -27,7 +27,7 @@
     "side": "",
     "top": "",
     "bottom": "",
-    "sound": "",
+    "sound": ""
   },
 }, 
 
@@ -43,7 +43,7 @@
     "side": "/assets/textures/blocks/dirt.png",
     "top": "/assets/textures/blocks/dirt.png",
     "bottom": "/assets/textures/blocks/dirt.png",
-    "sound": "nothing yet",
+    "sound": "nothing yet"
   },
 }
 ]
